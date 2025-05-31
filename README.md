@@ -110,7 +110,7 @@ Phone Book Contacts:
 
 ## 🙋 Author
 
-Created by **[Your Name]**
+Created by **[Bontha Mallikarjun Reddy]**
 
 > If you'd like to contribute or suggest changes, feel free to fork this repo and open a pull request!
 
